@@ -8,7 +8,6 @@ import org.mapstruct.factory.Mappers;
 /**
  * Created by jt on 9/27/17.
  */
-
 @Mapper
 public interface CustomerMapper {
 
